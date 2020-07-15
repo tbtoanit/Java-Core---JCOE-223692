@@ -19,5 +19,6 @@ public class App
         App a = new App();
         a.tinhChuVi(10);
         a.tinhChuVi(1,2);
+        // sua chuc nang nao do
     }
 }
